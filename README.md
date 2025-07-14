@@ -2,8 +2,8 @@
 
 ## 🚀 Project Overview
 
-**Company:** *AtliQ Hardwares* (Imaginary Company)
-**Industry:** Computer Hardware
+**Company:** *AtliQ Hardwares* (Imaginary Company) **|**
+**Industry:** Computer Hardware **|**
 **Region:** India & International
 
 AtliQ Hardwares is one of India’s leading computer hardware producers with a strong global presence. However, the company’s management noticed a lack of quick, actionable insights for strategic, data-driven decision-making.
