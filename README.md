@@ -20,9 +20,9 @@ AtliQ Hardwares’ top-level management needs answers to **10 ad-hoc business qu
 
 As an applicant, I have:
 
-* Analyzed the given database (`gdb023`)
-* Written efficient SQL queries to answer each business request
-* Presented the insights in a clear and executive-friendly format
+* Explored and analyzed the provided database (`gdb023`)
+* Written **clean and efficient SQL queries** to answer each  business request
+* Created a **Power BI dashboard and presentation** to communicate insights effectively
 
 ---
 
@@ -43,15 +43,17 @@ Supporting documents:
 
 * `ad-hoc-requests.pdf` — The 10 business questions
 * `Metadata.txt` — Detailed data dictionary
-* `Ad_Hoc Requests Presentation.pptx` — Visual presentation of the final insights
+* `Ad_Hoc Request Visuals.pbix` – Visual Power BI Dashboard presentation
+* `Ad_Hoc Requests Presentation.pptx` — Final presentation slides of the insights
 
 ---
 
 ## ✅ Tasks Performed
 
 1. Answered 10 ad-hoc business requests using clean, readable SQL queries.
-2. Generated results ready for executive review.
-3. Designed a presentation to communicate insights to stakeholders.
+2. Presented query results in business-friendly visuals.
+3. Highlighted key metrics and trends for stakeholders.
+4. Demonstrated real-world application of SQL in analytics.
 
 ---
 
@@ -61,6 +63,7 @@ Supporting documents:
 * `ad-hoc-requests.pdf` — Problem statement.
 * `Metadata.txt` — Detailed table and column descriptions.
 * `Ad_Hoc Requests Presentation.pptx` — Slide deck for top-level management.
+* `Ad_Hoc Request Visuals.pbix` — Power BI dashboard for visualization.
 
 ---
 
@@ -81,8 +84,10 @@ Examples of business questions answered:
 
 1. Clone/download this repository.
 2. Use the provided `.sql` scripts to run queries in any SQL environment that supports the given schema.
-3. Refer to the presentation slides for summarized insights.
-4. Review the metadata for a clear understanding of the data structure.
+3. Run the queries against the `gdb023` schema to reproduce results.
+5. Explore the **Power BI dashboard** (`.pbix`) for visual summaries.
+6. Review the **presentation slides** to see executive-level reporting.
+7. Review the metadata for a clear understanding of the data structure.
 
 ---
 
@@ -96,8 +101,7 @@ Examples of business questions answered:
 
 ## 📣 Acknowledgement
 
-This project is part of the **Codebasics SQL Resume Project Challenge**.
-Check out more details [here](https://codebasics.io/challenges/codebasics-resume-project-challenge/7).
+This project was created as part of the **[Codebasics SQL Resume Project Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)** — a great initiative to help learners build portfolio-worthy projects.
 
 ---
 
