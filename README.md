@@ -1,4 +1,4 @@
-# 📊 Ad\_Hoc Request Insights — SQL Project
+# 📊 Ad\_Hoc Request Insights — SQL Analysis
 
 ## 🚀 Project Overview
 
