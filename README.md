@@ -103,11 +103,7 @@ Examples of business questions answered:
 
 Explore the interactive **Ad_Hoc Request Visuals** here:
 
-👉 [**View Interactive Power BI Visuals**](https://app.powerbi.com/view?r=eyJrIjoiMmExODhmYzktZTAxZC00ZWE3LTg3ZjEtMGFhMzg4ODQwOTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-> ⚠️ This is a public version for demonstration purposes only. Do not upload sensitive or proprietary data using this method.
-
----
+👉 [**View Interactive Power BI Visuals**](https://app.powerbi.com/view?r=eyJrIjoiMzFjZTBlMmYtYTQ5OC00ZWUxLTgxYmMtMGJiZTk2YjJlOGNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
