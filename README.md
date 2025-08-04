@@ -99,6 +99,18 @@ Examples of business questions answered:
 
 ---
 
+## 🔍 View Interactive Power BI Visuals
+
+Explore the interactive **Ad_Hoc Request Visuals** here:
+
+👉 [**View Interactive Power BI Visuals**](https://app.powerbi.com/view?r=eyJrIjoiMmExODhmYzktZTAxZC00ZWE3LTg3ZjEtMGFhMzg4ODQwOTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+> ⚠️ This is a public version for demonstration purposes only. Do not upload sensitive or proprietary data using this method.
+
+---
+
+---
+
 ## 📣 Acknowledgement
 
 This project was created as part of the **[Codebasics SQL Resume Project Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)** — a great initiative to help learners build portfolio-worthy projects.
