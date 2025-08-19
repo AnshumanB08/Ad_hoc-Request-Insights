@@ -113,10 +113,6 @@ This project was created as part of the **[Codebasics SQL Resume Project Challen
 
 ---
 
-## 🔗 Connect with Me
-
-If you found this helpful, feel free to ⭐️ this repo or connect with me on [LinkedIn](#).
-
----
+If you found this helpful, feel free to ⭐️ this repository to support my work.
 
 **Thank you for checking out my project!**
