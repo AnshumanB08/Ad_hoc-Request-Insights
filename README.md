@@ -1,4 +1,4 @@
-# 📊 Ad\_Hoc Request Insights — SQL Analysis
+# 📊 AtliQ Hardwares Ad_Hoc Request Insights — SQL Analysis
 
 ## 🚀 Project Overview
 
